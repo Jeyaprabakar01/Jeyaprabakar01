@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently pursuing **BSc (Hons) in Software Engineering in Cardiff Metropolitan University**
 
-- 🌱 I’m currently learning **React, Node JS, Express JS and Mongo DB**
+- 🌱 I’m currently learning **React, Node JS, Mongo DB and Express**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
