@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ej.prabakar@gmail.com**
 
-- Learn more about me [https://jeyaprabakar.com/](https://jeyaprabakar.com/)
+- Learn more about me [Personal Website](https://jeyaprabakar.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
