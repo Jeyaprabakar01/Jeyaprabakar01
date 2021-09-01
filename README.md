@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
-- 📫 Reach me on **ej.prabakar@gmail.com**
+- 📫 Reach me on [Email](ej.prabakar@gmail.com)
 
 - Know more about me on [Personal Website](https://jeyaprabakar.com/)
 
