@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeyaprabakar01&label=Profile%20views&color=0e75b6&style=flat" alt="jeyaprabakar01" /> </p>
 
-- 🔭 I’m Currently Pursuing **BSc (Hons) in Software Engineering in Cardiff Metropolitan University**
+- 🔭 I’m currently pursuing **BSc (Hons) in Software Engineering in Cardiff Metropolitan University**
 
 - 🌱 I’m currently learning **React, Node JS, Express JS and Mongo DB**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **ej.prabakar@gmail.com**
+
+- Learn more about me [https://jeyaprabakar.com/](https://jeyaprabakar.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
