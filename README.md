@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeyaprabakar01&label=Profile%20views&color=0e75b6&style=flat" alt="jeyaprabakar01" /> </p>
 
-- 🔭 I’m currently pursuing **BSc (Hons) in Software Engineering in Cardiff Metropolitan University**
+- 🔭 I’m currently pursuing **BSc (Hons) in Software Engineering at Cardiff Metropolitan University**
 
 - 🌱 I’m currently learning **React, Node JS, Mongo DB and Express**
 
