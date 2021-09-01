@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
-- 📫 Reach me on [Email](ej.prabakar@gmail.com)
+- 📫 Reach me on [Email]**ej.prabakar@gmail.com**
 
-- Know more about me on [Personal Website](https://jeyaprabakar.com/)
+- Know more about me on [Personal Website](https://jeyaprabakar.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
