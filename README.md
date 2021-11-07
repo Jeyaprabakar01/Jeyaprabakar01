@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeyaprabakar Elancheliyan</h1>
 <h3 align="center">A passionate Full Stack JavaScript developer from Sri Lanka</h3>
 
-- 🔭 I’m currently pursuing **BSc (Hons) in Software Engineering at Cardiff Metropolitan University**
+- 🔭 I’m currently pursuing **BSc (Hons) Software Engineering at Cardiff Metropolitan University**
 
 - 🌱 I’m currently learning **React, Node JS, Express JS and Mongo DB**
 
