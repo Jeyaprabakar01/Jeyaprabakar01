@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeyaprabakar Elancheliyan</h1>
-<h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full Stack JavaScript developer from Sri Lanka</h3>
 
 - 🔭 I’m currently pursuing **BSc (Hons) in Software Engineering in Cardiff Metropolitan University**
 
