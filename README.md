@@ -9,7 +9,7 @@
 
 - 📫 Reach me on **ej.prabakar@gmail.com**
 
-- Know more about me on [https://jeyaprabakar.com/](https://jeyaprabakar.com/)
+- Know more about me on [https://jeyaprabakar.com/](https://jeyaprabakar.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
