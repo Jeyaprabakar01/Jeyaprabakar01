@@ -9,7 +9,7 @@
 
 - 👨‍💻 Know more about me on **https://jeyaprabakar.com**
   
-- ⚡ Fun fact **Everywhere I go, my mind is in full on frontend mode! Whether it's an ad banner on the road or a poster in a cafe, I can't help but think about CSS and styling. Frontend is not just my passion. it's my way of seeing the world in pixels and colors. Who else finds themselves mentally styling everything around them?**
+- ⚡ Fun fact **Everywhere I go, my mind is in full on frontend mode! Whether it's an advertisement banner on the road or a poster in a cafe, I can't help but think about CSS and styling. Frontend is not just my passion. it's my way of seeing the world in pixels and colors. Who else finds themselves mentally styling everything around them?**
 
 <div> <a href="https://www.linkedin.com/in/jeyaprabakar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/jeyaprabakar01" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
