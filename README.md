@@ -9,8 +9,8 @@ An **energetic and ambitious Software Engineer** with 2+ years of experience in 
 **Programming Languages:** JavaScript, TypeScript  
 **Frontend:** HTML, CSS, Tailwind CSS, React.js, Next.js  
 **Backend:** Node.js, Nest.js  
-**Databases:** MongoDB, MySQL
-**Others:** Zustand, Redux, Git, GitHub  
+**Databases:** MongoDB, MySQL  
+**Others:** Zustand, Redux, Git, GitHub
 
 ---
 
@@ -24,6 +24,4 @@ An **energetic and ambitious Software Engineer** with 2+ years of experience in 
 - Implemented **OpenAI-powered text generation features** to enhance application functionality and user experience.  
 - Conducted **API testing and validation** using Postman, improving backend reliability and functionality.  
 - Implemented **CI/CD pipelines** using GitHub Actions and Docker, streamlining deployments on DigitalOcean.  
-- Enhanced **mobile responsiveness** and ensured smooth user experience across devices.  
-
----
+- Enhanced **mobile responsiveness** and ensured smooth user experience across devices.
